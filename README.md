@@ -1,16 +1,35 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" alt="Joel Luna Banner" />
+</p>
 
-<!--
-**JoelLuna01/JoelLuna01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Joel Luna 👋
 
-Here are some ideas to get you started:
+## Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building scalable business systems, modern web applications and mobile experiences.
+
+---
+
+## 🚀 Technologies
+
+- React
+- Node.js
+- Firebase
+- JavaScript
+- MySQL
+
+---
+
+## 💼 Featured Projects
+
+### Production Downtime Dashboard
+Production downtime tracking dashboard for manufacturing environments.
+
+### Employee Learning System
+Web platform for employee training and onboarding management.
+
+---
+
+## 📫 Contact
+
+- Email: 
