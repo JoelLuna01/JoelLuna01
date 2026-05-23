@@ -35,9 +35,9 @@ Building scalable business systems, modern web applications and mobile experienc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoelLuna01&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoelLuna01&show_icons=true&theme=tokyonight&count_private=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelLuna01&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelLuna01&layout=compact&theme=tokyonight" />
 </p>
 
 ---
