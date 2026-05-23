@@ -12,10 +12,10 @@ Building scalable business systems, modern web applications and mobile experienc
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
-  
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
@@ -25,33 +25,43 @@ Building scalable business systems, modern web applications and mobile experienc
 </p>
 
 <p align="center">
-  
+
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,firebase,mysql,js,html,css)](https://skillicons.dev)
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoelLuna01&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoelLuna01&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelLuna01&layout=compact&theme=tokyonight" />
+  <img width="37%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoelLuna01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 💼 Currently Working On
 
-### Production Downtime Dashboard
+- Business systems
+- Manufacturing dashboards
+- Web applications
+- Mobile experiences
+
+---
+
+# 🚀 Featured Projects
+
+## Production Downtime Dashboard
 Production downtime tracking dashboard for manufacturing environments.
 
-### Employee Learning System
+## Employee Learning System
 Web platform for employee training and onboarding management.
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
 - Email: Neitsolutions@gmail.com
+- GitHub: https://github.com/JoelLuna01
