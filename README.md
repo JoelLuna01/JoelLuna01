@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Joel Luna Banner" />
+  <img src="banner.png" width="100%" />
 </p>
 
 # Joel Luna 👋
@@ -9,6 +9,9 @@
 Building scalable business systems, modern web applications and mobile experiences.
 
 ---
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
 ## 🚀 Technologies
 
