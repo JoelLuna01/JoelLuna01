@@ -14,15 +14,19 @@ Building scalable business systems, modern web applications and mobile experienc
 
 # 🚀 Tech Stack
 
+
+
 <p align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs" />
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase" />
 
 </p>
+
+
 
 <p align="center">
 
